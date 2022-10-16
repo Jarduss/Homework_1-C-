@@ -6,13 +6,13 @@
 Console.WriteLine("Введите число а -");
 int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine()); 
+int max = 0;
+int min = 0;
 if (a > b)
 { 
-    Console.Write("Большее число -");
-    Console.Write(a);
+    Console.Write("Большее число - " + a + " Меньшее число - " + b);
 }
 else
 {
-    Console.Write("Большее число -");
-   Console.Write(b);
+    Console.Write("Большее число - " + b + " Меньшее число - " + a);
 }

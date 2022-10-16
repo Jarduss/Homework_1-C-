@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win10_Game_OS\\Desktop\\Домашнее задание № 1 (С#)\\Домашнее задание № 1 (С#).csproj",
+      "projectUniqueName": "C:\\Users\\Win10_Game_OS\\Desktop\\Домашнее задание № 1 (С#)\\Homework_1-C-\\Домашнее задание № 1 (С#).csproj",
       "projectName": "Домашнее задание № 1 (С#)",
-      "projectPath": "C:\\Users\\Win10_Game_OS\\Desktop\\Домашнее задание № 1 (С#)\\Домашнее задание № 1 (С#).csproj",
+      "projectPath": "C:\\Users\\Win10_Game_OS\\Desktop\\Домашнее задание № 1 (С#)\\Homework_1-C-\\Домашнее задание № 1 (С#).csproj",
       "packagesPath": "C:\\Users\\Win10_Game_OS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Win10_Game_OS\\Desktop\\Домашнее задание № 1 (С#)\\obj\\",
+      "outputPath": "C:\\Users\\Win10_Game_OS\\Desktop\\Домашнее задание № 1 (С#)\\Homework_1-C-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Win10_Game_OS\\AppData\\Roaming\\NuGet\\NuGet.Config"
