@@ -1,0 +1,15 @@
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\Задача № 4.csproj.AssemblyReference.cache
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\Задача № 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\Задача № 4.AssemblyInfoInputs.cache
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\Задача № 4.AssemblyInfo.cs
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\Задача № 4.csproj.CoreCompileInputs.cache
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\bin\Debug\net6.0\Задача № 4.exe
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\bin\Debug\net6.0\Задача № 4.deps.json
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\bin\Debug\net6.0\Задача № 4.runtimeconfig.json
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\bin\Debug\net6.0\Задача № 4.dll
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\bin\Debug\net6.0\Задача № 4.pdb
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\Задача № 4.dll
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\refint\Задача № 4.dll
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\Задача № 4.pdb
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\Задача № 4.genruntimeconfig.cache
+C:\Users\Win10_Game_OS\Desktop\Домашнее задание № 1 (С#)\Задача № 4\obj\Debug\net6.0\ref\Задача № 4.dll
